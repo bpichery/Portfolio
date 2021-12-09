@@ -1,13 +1,4 @@
-/**
-* Template Name: Folio - v4.7.0
-* Template URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 body {
   background: #ffffff;
   color: #2d304d;
@@ -518,9 +509,9 @@ p {
   line-height: 44px;
 }
 
-.img-nuxt {
-  max-height: 17%;
-  max-width: 17%;
+.img-comp {
+  max-height: 35px;
+  max-width: 35px;
 }
 .img-agile {
   max-height: 15%;
