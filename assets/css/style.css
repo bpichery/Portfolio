@@ -424,14 +424,14 @@ p {
 
 .survivalSkills{
   margin-top: 10vh;
-  text-align: center;
   padding-top: 1vh;
+  font-weight: 500;
 }
 
 .title-about {
   font-size: 30px;
   text-align: center;
-  font-family: 'Allura';
+  font-family: 'Poppins';
   font-weight: 500;
   margin-right: 1vw;
   margin-left: 1vw;
