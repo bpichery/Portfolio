@@ -424,6 +424,8 @@ p {
 
 .survivalSkills{
   margin-top: 10vh;
+  margin-right: 10px;
+  margin-left: 10px;
   padding-top: 1vh;
   font-weight: 500;
   text-align: justify;
